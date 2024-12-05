@@ -7,8 +7,6 @@
 
 We specialize in providing software development services and IT consulting as freelancers. We offer mentorship for new freelancers and provide computer science students with reliable expertise.
 
-![Welcome GIF](https://media.giphy.com/media/3oKIPa2TdahY8B2yPm/giphy.gif)
-
 ---
 
 ## Our Services
@@ -34,16 +32,9 @@ We specialize in providing software development services and IT consulting as fr
 ## Contact Us
 - **Social Media:** Follow us on [LinkedIn](https://www.linkedin.com/company/dev-art-online)
 
-![Social Media Stickers](https://media.giphy.com/media/26FPq8qK9ftBSE4HC/giphy.gif)
-
 ---
 
 ## Show Your Support
 ![Support Us](https://img.shields.io/badge/support-us-blue)
 
-![Support Sticker](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
-
 ---
-
-
-![Enhancement Sticker](https://media.giphy.com/media/26FPq8qK9ftBSE4HC/giphy.gif)
