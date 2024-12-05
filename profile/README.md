@@ -1,9 +1,4 @@
-![Technology Community](https://github.com/user-attachments/assets/aa45614b-b937-449f-8040-14d55bd0888f)
-## Hi there 👋
-
-# Dev-Art-Online Organization Profile
-
-## Welcome to Dev Art Online!
+# Welcome to Dev Art Online!
 
 We specialize in providing software development services and IT consulting as freelancers. We offer mentorship for new freelancers and provide computer science students with reliable expertise.
 
