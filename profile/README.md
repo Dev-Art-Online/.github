@@ -1,6 +1,7 @@
 # Welcome to Dev Art Online!
 
-We specialize in providing software development services and IT consulting as freelancers. We offer mentorship for new freelancers and provide computer science students with reliable expertise.
+- We specialize in providing software development services and IT consulting as freelancers. 
+- We offer mentorship for beginners in freelancing and provide beginners with reliable expertise.
 
 ---
 
